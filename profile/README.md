@@ -1,7 +1,7 @@
 <!-- <style>body {text-align: justify}</style> -->
 
 
-![logo](../Resilent-pos@2x.png)
+![logo](Resilent-pos@2x.png)
 
 
 ## A resilient, safe and secure charging infrastructure
