@@ -1,7 +1,7 @@
 <!-- <style>body {text-align: justify}</style> -->
 
 
-![logo](Resilent-pos@2x.png)
+![logo](https://github.com/ReSiLENT-OTHR/.github/blob/main/profile/Resilent-pos@2x.png?raw=true)
 
 
 ## A resilient, safe and secure charging infrastructure
